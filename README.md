@@ -1,4 +1,4 @@
-🍽️ Restaurant Orders Data Analysis
+![image](https://github.com/user-attachments/assets/d8dd656c-c4c4-4a03-b19f-7bfcae59b9c9)🍽️ Restaurant Orders Data Analysis
 📊 SQL-проект по анализу заказов в ресторане на основе открытого датасета с Kaggle
 Датасет:
 Analyzing Restaurant Orders (Kaggle)
